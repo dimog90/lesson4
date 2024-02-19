@@ -4,8 +4,12 @@ version2
 version4
 version5
 <<<<<<< HEAD
+<<<<<<< HEAD
 version6
 >>>>>>> 3a5402a (fixed)
 =======
 version5
 >>>>>>> 9c250b6 (fixed)
+=======
+version6
+>>>>>>> feature
