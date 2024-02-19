@@ -2,6 +2,7 @@
 version1
 version2
 version4
+<<<<<<< HEAD
 version5
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13,3 +14,5 @@ version5
 =======
 version6
 >>>>>>> feature
+=======
+>>>>>>> refs/remotes/origin/feature
